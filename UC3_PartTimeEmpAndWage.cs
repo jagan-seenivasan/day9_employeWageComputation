@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Employee_Wages_usingObject
+namespace Employee_Wages_Computation
 {
     class UC3_PartTimeEmpAndWage
     {
