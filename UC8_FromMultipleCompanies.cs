@@ -6,6 +6,6 @@ namespace Employee_Wages_Computation
 {
     interface UC8_FromMultipleCompany
     {
-        public int computeEmpWage(string company, int empRatePerHour, int numOfWorkingDays, int MaxHoursPerMonth);
+        public int computeEmpWageInCompsnies(string company, int empRatePerHour, int numOfWorkingDays, int MaxHoursPerMonth);
     }
 }
