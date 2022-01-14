@@ -1,6 +1,6 @@
 using System;
 
-namespace Employee_Wages_usingObject
+namespace Employee_Wages_Computation
 {
     class UC1_EmpCheck
     {
