@@ -2,9 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Day9_EmployeeWageComputation
+namespace Employee_Wages_Computation
 {
-    public class ComputeEmpWageClass : uc1_FromMultipleCompanies.cs
+    public class ComputeEmpWageClass : uc8_FromMultipleCompanies.cs
     {
         public const int IS_FULL_TIME = 1;
         public const int IS_PART_TIME = 2;
