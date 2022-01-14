@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Employee_Wages_usingObject
+namespace Employee_Wages_Computation
 {
     class UC7_RefactorTheCodeUsingClass
     {
