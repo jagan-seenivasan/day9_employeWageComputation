@@ -24,7 +24,7 @@ namespace Employee_Wages_Computation
             {
 
                 Random random = new Random();
-                int empCheck = random.Next(0, 3);
+                int empCheck = random.Next(0,3);
                 switch (empCheck)
                 {
                     case IS_PART_TIME:
