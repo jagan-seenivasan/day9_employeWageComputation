@@ -29,7 +29,7 @@ namespace Employee_Wages_Computation
                         empHrs = 4;
                         break;
                     default:
-                        empHrs = 0;
+                        empHrs =0;
                         break;
                 }
                 totalEmpHrs = totalEmpHrs + empHrs;
